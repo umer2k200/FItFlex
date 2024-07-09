@@ -1,4 +1,4 @@
-Fitness App
+# Fitness App
 
 Welcome to the Fitness App, a comprehensive solution for your fitness journey. This MERN stack application is built with React for the frontend, Node.js and Express for the backend,
 and MongoDB for the database. It offers various features to help you achieve your fitness goals, including personalized plans, programs, testimonials, and feedback.
